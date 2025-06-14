@@ -3,8 +3,8 @@ const fs = require('fs')
 global.creator = 'SayfullXD'// yourname
 global.MONGO_DB_URI = "mongodb+srv://mongodb-bot:PZt5K_8qLpamq2,@cluster0.rkmfcrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "kontaksayfullxdreall@gmail.com" //email
+global.email_password = "mggd exzg lnwy aumz" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
